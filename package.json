@@ -10,5 +10,12 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": {
+		"name": "Ayush"
+	},
+	"description": "A project that does something awesome",
+	"keywords": ["descriptive", "related", "words", "freecodecamp"],
+	"license":"MIT",
+	"version": "1.2.0"
 }
